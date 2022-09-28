@@ -1,0 +1,12 @@
+C:\Users\marti\Desktop\pryBazanEditoria\bin\Debug\pryBazanEditoria.exe.config
+C:\Users\marti\Desktop\pryBazanEditoria\bin\Debug\pryBazanEditoria.exe
+C:\Users\marti\Desktop\pryBazanEditoria\bin\Debug\pryBazanEditoria.pdb
+C:\Users\marti\Desktop\pryBazanEditoria\obj\Debug\pryBazanEditoria.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\pryBazanEditoria\obj\Debug\pryBazanEditoria.frmLibro.resources
+C:\Users\marti\Desktop\pryBazanEditoria\obj\Debug\pryBazanEditoria.frmPrincipal.resources
+C:\Users\marti\Desktop\pryBazanEditoria\obj\Debug\pryBazanEditoria.Properties.Resources.resources
+C:\Users\marti\Desktop\pryBazanEditoria\obj\Debug\pryBazanEditoria.csproj.GenerateResource.cache
+C:\Users\marti\Desktop\pryBazanEditoria\obj\Debug\pryBazanEditoria.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\pryBazanEditoria\obj\Debug\pryBazanEditoria.exe
+C:\Users\marti\Desktop\pryBazanEditoria\obj\Debug\pryBazanEditoria.pdb
+C:\Users\marti\Desktop\pryBazanEditoria\obj\Debug\pryBazanEditoria.csproj.SuggestedBindingRedirects.cache
